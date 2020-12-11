@@ -1,0 +1,20 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GameClient",
+"productVersion": "0.1",
+"dataUrl": "GameClientWeb.data.unityweb",
+"wasmCodeUrl": "GameClientWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameClientWeb.wasm.framework.unityweb",
+"asmCodeUrl": "GameClientWeb.asm.code.unityweb",
+"asmMemoryUrl": "GameClientWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "GameClientWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
